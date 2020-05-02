@@ -31,8 +31,8 @@ For more details visit the [Readthedocs](https://clouddrip.readthedocs.io/en/lat
 
 ### Download the Application
 
-This Web Application is licensed and protected by a EULA agreement.  The primary purpose of this application is not to make money, but to establish an identity within the cloud space as a reputible business for developing cloud tools and solutions.  This application is FREE, but you will have to request a copy by email.  You will be given an activation key that will allow you to pull the repositry.  To request your activation key, please send an [email](mailto:mcmcloud.management@gmail.com) stating that you would like an activation code.  You will be promptly responded to!
+This Web Application is licensed and protected by a EULA agreement.  The primary purpose of this application is not to make money, but to establish an identity within the cloud space as a reputible business for developing cloud tools and solutions.  This application is FREE, but you will have to request a copy by email.  You will be given an activation key that will allow you to pull the repositry.  To request your activation key, please email [mcmcloud.management@gmail.com](mailto:mcmcloud.management@gmail.com) stating that you would like an activation code.  You will be promptly responded to!
 
 ### Support or Contact to Request a Demo
 
-Having trouble with Pages? Check out our [documentation](https://clouddrip.readthedocs.io/en/latest/).  To [request a demo, or contact support](mailto:mcmcloud.management@gmail.com) send an email, and you will be contacted promptly.
+Having trouble with Pages? Check out our [documentation](https://clouddrip.readthedocs.io/en/latest/).  To request a demo or contact support, please email [mcmcloud.management@gmail.com](mailto:mcmcloud.management@gmail.com), and you will be contacted promptly.
