@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## CloudDrip Cloud Orchestration and Management Web Application
 
-You can use the [editor on GitHub](https://github.com/MotherCloudManagement/CloudDrip/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CloudDrip is a Multi-Tenant Cloud Orchestration and Management Web Application that allows cloud administrators to manage cloud resources from a centralized location.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CloudDrip provides seamless interaction with the most popular cloud providers, including AWS, GCP, Azure, DigitalOcean, RackSpace, and more.  Capability also exists for on-premise environments such as VMware vSphere and Citrix XenServer. [Mother Cloud Management](https://MotherCloudManagement.github.io/CloudDrip/) is the parent company and developer of this software; building software since 2020.
 
-### Markdown
+### Architecture
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The CloudDrip architecture is composed of three parts: Backend (SDK Level, Database, and Frontend).  This architecture creates a fault taulerant environment, while also keeping the application lightweight.  Extendable Modules can be added easily by administrators, without any disruption to web application services.
+
 
 ```markdown
-Syntax highlighted code block
+Architecture Breakdown
 
 # Header 1
 ## Header 2
@@ -30,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MotherCloudManagement/CloudDrip/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bernard2324/CloudDrip/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
