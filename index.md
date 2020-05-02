@@ -25,6 +25,7 @@ Architecture Breakdown
 **Bold** and _Italic_ and `Code` text
 ![Image](https://raw.githubusercontent.com/Bernard2324/vmauto/master/screenshots/screen03.png)
 ```
+![Image](https://raw.githubusercontent.com/Bernard2324/vmauto/master/screenshots/screen03.png)
 
 For more details visit the [Readthedocs](https://clouddrip.readthedocs.io/en/latest/) page.
 
