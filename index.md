@@ -2,7 +2,7 @@
 
 CloudDrip is a Multi-Tenant Cloud Orchestration and Management Web Application that allows cloud administrators to manage cloud resources from a centralized location.
 
-CloudDrip provides seamless interaction with the most popular cloud providers, including AWS, GCP, Azure, DigitalOcean, RackSpace, and more.  Capability also exists for on-premise environments such as VMware vSphere and Citrix XenServer. [Mother Cloud Management](https://MotherCloudManagement.github.io/CloudDrip/) is the parent company and developer of this software; building software since 2020.
+CloudDrip provides seamless interaction with the most popular cloud providers, including AWS, GCP, Azure, DigitalOcean, RackSpace, and more.  Capability also exists for on-premise environments such as VMware vSphere and Citrix XenServer. [Mother Cloud Management](https://MotherCloudManagement.github.io/MotherCloudManagement/) is the parent company and developer of this software; building software since 2020.
 
 ### Architecture
 
@@ -27,12 +27,12 @@ Architecture Breakdown
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details visit the [Readthedocs](https://clouddrip.readthedocs.io/en/latest/) page.
 
-### Jekyll Themes
+### Download the Application
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bernard2324/CloudDrip/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This Web Application is licensed and protected by a EULA agreement.  The primary purpose of this application is not to make money, but to establish an identity in the cloud space as a reputible business for developing cloud tools and solutions.  This application is FREE, but you will have to request a copy by email.  You will be given an activation key that will allow you to pull the repositry.
 
-### Support or Contact
+### Support or Contact to Request a Demo
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://clouddrip.readthedocs.io/en/latest/).  To [request a demo, or contact support](mailto:mcmcloud.management@gmail.com) send an email, and you will be contacted promptly.
