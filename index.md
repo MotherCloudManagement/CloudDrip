@@ -9,23 +9,7 @@ CloudDrip provides seamless interaction with the most popular cloud providers, i
 The CloudDrip architecture is composed of three parts: Backend (SDK Level, Database, and Frontend).  This architecture creates a fault taulerant environment, while also keeping the application lightweight.  Extendable Modules can be added easily by administrators, without any disruption to web application services.
 
 
-```markdown
-Architecture Breakdown
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-![Image](https://raw.githubusercontent.com/Bernard2324/vmauto/master/screenshots/screen03.png)
-```
-![Image](https://raw.githubusercontent.com/Bernard2324/vmauto/master/screenshots/screen03.png)
+![Image](temp_cloudmanagementsnapshot.png)
 
 For more details visit the [Readthedocs](https://clouddrip.readthedocs.io/en/latest/) page.
 
