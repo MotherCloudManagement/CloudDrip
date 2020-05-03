@@ -19,8 +19,8 @@ This Web Application is licensed and protected by a EULA agreement.  The primary
 
 For now Mother Cloud Management wishes to establish an presence within the cloud space; CloudDrip will remain free allowing business to use this product without risking budget on an unproven product.  CloudDrip is in the POC stage.  Once CloudDrip is proven as a reliable solution, an enterprise solution will be marketed.  Participants who supported CloudDrip during the POC phase may continue using their community edition, however the enterprise version of CloudDrip must be used by any clients desiring to outsource the aministration of cloud resources to Mother Cloud Management.
 
-The Enterprise Edition will contain features that the community edition does not, support will also be guaranteed only for users of the enterprise edition.
+The Enterprise Edition will contain features that the community edition does not.  Additionally, support will  be guaranteed only for users of the enterprise edition.
 
 ### Contact Support or Request a Demo
 
-Having trouble with Pages? Check out our [documentation](https://clouddrip.readthedocs.io/en/latest/).  To request a demo or contact support, please email [mcmcloud.management@gmail.com](mailto:mcmcloud.management@gmail.com), and you will be contacted promptly.
+Have you encountered a bug? Are you in need of additional support? Check out our [documentation](https://clouddrip.readthedocs.io/en/latest/).  To request a demo or contact support, please email [mcmcloud.management@gmail.com](mailto:mcmcloud.management@gmail.com), and you will be contacted promptly.
