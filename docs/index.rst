@@ -11,5 +11,18 @@ Introduction:
 -------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+
+
+.. toctree::
+   :hidden:
+   :caption: Providers
+
+   AWS
+   GCP
+   Azure
+   DigitalOcean
+   Vultr
+   vSphere
+
 
