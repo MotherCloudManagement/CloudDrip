@@ -1,71 +1,15 @@
-.. include:: introduction.rst
+.. CloudDrip documentation master file, created by
+    sphinx-quickstart on Mon May 4 21:05:25 2020
 
 
-..  toctree::
-    :hidden:
-    :maxdepth: 1
+CloudDrip Documentation
+=======================
 
-    introduction
-    install
-    versions
+CloudDrip Multi-Tenant Cloud Orchestration and Management Web Application
 
-.. toctree::
-    :hidden:
-    :caption: Cloud Providers
-
-    AWS
-    GCP
-    Azure
-    DigitalOcean
-    Vultr
-    vSphere
-    OpenShift
-    Xenserver
+Introduction:
+-------------
 
 .. toctree::
-    :hidden:
-    :caption: Cloud_Kernel
+   :maxdepth: 2
 
-    cloud_kernel/Scheduling
-    cloud_kernel/Apache Kafka
-    cloud_kernel/Database Synchronization
-    cloud_kernel/SDK Triggers
-
-.. toctree::
-    :hidden:
-    :caption: Frontend
-
-    frontend/Djanjo
-    frontend/Bootstrap
-    frontend/Zabbix
-    frontend/Jira
-
-.. toctree::
-    :hidden:
-    :caption: Infrastructure
-
-    infrastructure/Apache Kafka
-    infrastructure/Redis
-    infrastructure/SQLAlchemy
-
-
-.. toctree::
-    :hidden:
-    :caption: Troubleshooting & Support
-
-    troubleshooting/steps
-    troubleshooting/support
-
-
-.. toctree::
-    :hidden:
-    :caption: Development
-
-    dev/pipeline
-    dev/feature request
-
-..  Indices and tables
-    ==================
-
-    * :ref:`genindex`
-    * :ref:`modindex`
