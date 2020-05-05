@@ -1,3 +1,3 @@
 ###############################################
-An Introduction to CloudDrip
+How to Configure CloudDrip in Your Environment
 ###############################################

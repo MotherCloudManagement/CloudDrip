@@ -1,3 +1,3 @@
 ###############################################
-An Introduction to CloudDrip
+Ongoing Development of CloudDrip
 ###############################################

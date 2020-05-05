@@ -4,25 +4,25 @@
 
 CloudDrip Documentation
 =======================
+.. include:: ../README.rst
+   :end-before: Documentation
 
 CloudDrip Multi-Tenant Cloud Orchestration and Management Web Application
 
-Introduction:
--------------
+
+Table of Contents
+=================
+
 
 .. toctree::
    :maxdepth: 1
 
+   introduction
+   installation
+   configuration
+   providers
+   development
 
-.. toctree::
-   :hidden:
-   :caption: Providers
 
-   AWS
-   GCP
-   Azure
-   DigitalOcean
-   Vultr
-   vSphere
-
+   
 
