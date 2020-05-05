@@ -21,6 +21,8 @@ For now Mother Cloud Management wishes to establish an presence within the cloud
 
 The Enterprise Edition will contain features that the community edition does not.  Additionally, support will  be guaranteed only for users of the enterprise edition.
 
-### Contact Support or Request a Demo
+### Contact Support, Request a Demo, or Provide Feedback!
 
 Have you encountered a bug? Are you in need of additional support? Check out our [documentation](https://clouddrip.readthedocs.io/en/latest/).  To request a demo or contact support, please email [mcmcloud.management@gmail.com](mailto:mcmcloud.management@gmail.com), and you will be contacted promptly.
+
+When it comes to developing a premier product that provides maximum value to customers, continuous improvement and development of our product is essential.  One of the most important aspects of this process is feedback.  Your feedback is not only welcome, but desired; Mother Cloud Management would greatly appreciate taking 3 minutes of your time to complete a [7 question survey](https://www.surveymonkey.com/r/MXPNH26).
