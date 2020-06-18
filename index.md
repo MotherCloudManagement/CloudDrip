@@ -9,7 +9,7 @@ CloudDrip provides seamless interaction with the most popular cloud providers, i
 The CloudDrip architecture is composed of three parts: Backend (SDK Level, proprietary cloud_kernel, Apache Kafka), Database (proprietary cloud_kernel, MySQL Database), and the Frontend (Django/Bootstrap Web Application, Zabbix & Jira Integration).  This architecture creates a fault taulerant environment, while also keeping the application lightweight.  Extendable Modules can be added easily by administrators, without any disruption to web application services.
 
 
-![Image](temp_cloudmanagementsnapshot.png)
+![Image](CloudDrip Deployment Architecture.png)
 
 For more details visit the [Readthedocs](https://clouddrip.readthedocs.io/en/latest/) page.
 
